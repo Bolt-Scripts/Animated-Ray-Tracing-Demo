@@ -1,4 +1,4 @@
-# Ray-Tracing-Demo
+# Animated Ray Tracing Demo
  An animated ray tracing demonstration tool built in Unity.
  
  Unity Version: 2019.2.4
